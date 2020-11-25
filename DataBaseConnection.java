@@ -23,7 +23,7 @@ public class DataBaseConnection {
 		{
 			e.printStackTrace();
 		}
-        return conn1;
+        return conn;
 	}
     
 
